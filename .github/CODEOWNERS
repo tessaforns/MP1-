@@ -1,0 +1,7 @@
+# Los cambios en estos ficheros necesitan la aprobación de otra persona del equipo.
+# Sustituid <usuario-1> y <usuario-2> por los usuarios de GitHub del equipo y activad en
+# Settings → Branches la regla "Require review from Code Owners" para la rama main.
+SPECS.md               @<usuario-1> @<usuario-2>
+DESIGN.md              @<usuario-1> @<usuario-2>
+ARCHITECTURE.md        @<usuario-1> @<usuario-2>
+tests/acceptance/      @<usuario-1> @<usuario-2>

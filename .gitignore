@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+# Datos: data/raw se descarga y data/processed lo genera el pipeline
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
